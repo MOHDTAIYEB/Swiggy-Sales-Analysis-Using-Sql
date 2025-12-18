@@ -49,9 +49,9 @@ Using the optimized schema, I developed a suite of analytical queries to answer 
 - Quality Metrics: Analyzed the Distribution of Ratings across the entire platform.
 
 ### 🚀 Repository Contents
-swiggy_raw_data.csv: The initial flat dataset.
+swiggy_data.csv: The initial flat dataset.
 
-swiggy_analysis_master_script.sql: The complete MySQL script containing ETL, Schema Creation, and Business Logic.
+swiggy_sales_analysis.sql: The complete MySQL script containing ETL, Schema Creation, and Business Logic.
 
 Visuals/: Screenshots of the Star Schema ER Diagram and key Excel visualizations.
 
