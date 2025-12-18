@@ -3,7 +3,7 @@
 ## 🛵 Swiggy Sales Data Analysis (Star Schema Implementation)
 
 ## 📌 Project Overview
-This project demonstrates an end-to-end Data Engineering and Analytics workflow using MySQL. I transformed a flat, unorganized CSV dataset of Swiggy delivery orders into a professional Star Schema. The goal was to optimize the data structure for high-performance querying and to extract key business insights regarding revenue, customer spending, and regional performance.
+This project demonstrates an end-to-end Data Engineering and Analytics workflow using MySQL. I transformed a flat, unorganized CSV dataset of Swiggy delivery orders containing **1,97,430 rows** into a professional Star Schema. The goal was to optimize the data structure for high-performance querying and to extract key business insights regarding revenue, customer spending, and regional performance.
 
 ## 🏗️ Data Architecture: The Star Schema
 To move away from a redundant "flat-file" structure, I architected a Star Schema. This approach ensures data integrity and prepares the database for advanced Business Intelligence (BI) reporting.
