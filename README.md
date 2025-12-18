@@ -55,8 +55,9 @@ swiggy_analysis_master_script.sql: The complete MySQL script containing ETL, Sch
 
 Visuals/: Screenshots of the Star Schema ER Diagram and key Excel visualizations.
 
-🎓 About the Author
-Mohammad Taiyeb
+## 🎓 About the Author
+
+**Mohammad Taiyeb**
 
 MBA Business Economics Candidate at the Department of Business Economics (DBE), University of Delhi.
 
